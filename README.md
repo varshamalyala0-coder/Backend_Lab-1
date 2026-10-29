@@ -95,25 +95,31 @@ The `/anything` path is an example of an unknown route. Other undefined paths sh
 
 Displays the welcome message.
 
-![Home route response](screenshots/home.png)
+![Home Route Output](home.jpeg)
+
+---
 
 ### 2. About Route
 
 Displays the student's name and section in JSON format.
 
-![About route response](screenshots/about.png)
+![About Route Output](about.jpeg)
+
+---
 
 ### 3. Time Route
 
 Displays the current date and time.
 
-![Time route response](screenshots/time.png)
+![Time Route Output](time.jpeg)
+
+---
 
 ### 4. Unknown Route
 
 Displays the 404 Page Not Found response.
 
-![404 route response](screenshots/not-found.png)
+![404 Route Output](not-found.jpeg)
 
 ## HTTP Status Codes
 

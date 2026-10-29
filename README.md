@@ -10,7 +10,7 @@
 
 ## Live Link
 
-**Deployment URL: https://backend-lab-1.vercel.app
+**Deployment URL: https://backend-lab-1-37o6.vercel.app
 
 ## Objective
 

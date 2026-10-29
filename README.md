@@ -27,18 +27,17 @@ To set up a Node.js project, create a basic HTTP server using the built-in `http
 ## Project Structure
 
 ```text
-lab-01/
-├── screenshots/
-│   ├── home.png
-│   ├── about.png
-│   ├── time.png
-│   └── not-found.png
-├── server-http.js
-├── server.js
-├── package.json
-├── package-lock.json
+Backend_Lab-1/
 ├── .gitignore
-└── README.md
+├── README.md
+├── Readme.md
+├── about.jpeg
+├── home.jpeg
+├── not-found.jpeg
+├── package-lock.json
+├── package.json
+├── server.js
+└── time.jpeg
 ```
 
 ## Installation and Setup

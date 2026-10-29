@@ -50,7 +50,7 @@ Backend_Lab-1/
 ### Steps to Run
 
 1. Clone the repository or download the project.
-2. Open the `lab-01` folder in the terminal.
+2. Open the `Backend_Lab-1` folder in the terminal.
 3. Install the dependencies:
 
    ```bash

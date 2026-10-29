@@ -149,6 +149,5 @@ Example: If a port was already in use, stop the other server before starting the
 
 - The `.gitignore` file excludes `node_modules/` and `.env`.
 - The `node_modules/` directory must not be committed.
-- Screenshots are stored in the `screenshots/` directory.
 - The project is submitted through the course GitHub repository.
 
